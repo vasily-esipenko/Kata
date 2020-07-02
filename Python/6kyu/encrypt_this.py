@@ -1,7 +1,9 @@
-# 6kyu kata
+# 6 kyu kata
 # Encrypt this!
 # Link: https://www.codewars.com/kata/5848565e273af816fb000449
+
 # Description:
+
 # Encrypt this!
 # You want to create secret messages which can be deciphered by the Decipher this! kata. Here are the conditions:
 # Your message is a string containing space separated words.
@@ -9,7 +11,6 @@
 # The first letter needs to be converted to its ASCII code.
 # The second letter needs to be switched with the last letter
 # Keepin' it simple: There are no special characters in input.
-
 
 # My solution:
 
